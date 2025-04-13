@@ -5,8 +5,8 @@
 <table>
     <tr>
       	<th>Имя файла / filename</th>
-        <th>Проектирование организации строительства</th>
-        <th>Designing the organization of construction stage</th>
+        <th>Предназначение файла</th>
+        <th>Purpose of the file</th>
     </tr>
     <tr>
         <td>Модуль_для_создания_чистовой_ВОР.xlam</td>
