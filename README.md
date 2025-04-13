@@ -59,3 +59,50 @@
         <td>Calculation of sheet pile fencing</td>
     </tr>
 </table>
+
+#
+#### Инструкция по установке надстройки MS Excel для подготовки к печати ведомостей объёмов работ.
+###### Instructions for installing the MS Excel add-in to prepare for printing volume statements.
+
+<table>
+  	<tr>
+        <td>Скачайте файл "Модуль_для_создания_чистовой_ВОР.xlam"</td>
+      	<td>Download the file "Модуль_для_создания_чистовой_ВОР.xlam"</td>
+    </tr>
+  	<tr>
+        <td>Поместите файл в папку Addons Excello. Возможный путь к этой папке - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns</td>
+      	<td>Place the file in the Addons Excello folder. Possible path to this folder - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns</td>
+    </tr>
+    <tr>
+        <td>Запустите MS Excel</td>
+      	<td>Launch MS Excel</td>
+    </tr>
+    <tr>
+        <td>Перейдите Файл -> Параметры</td>
+      	<td>Go to File -> Settings</td>
+    </tr>
+  	<tr>
+        <td>Перейдите во вкладку Надстройки</td>
+      	<td>Go to the Add-ons tab</td>
+    </tr>
+  	<tr>
+        <td>В окошке Управление должно быть выбрано Надстройки Excel</td>
+      	<td>Excel Add-ons should be selected in the Management window</td>
+    </tr>
+  	<tr>
+        <td>Нажмите кнопку Перейти рядом с этим окошком</td>
+      	<td>Click the Go button next to this window</td>
+    </tr>
+  	<tr>
+        <td>Нажмите Обзор</td>
+      	<td>Click Browse</td>
+    </tr>
+  	<tr>
+        <td>Найдите этот файл, выберите его и нажмите Открыть</td>
+      	<td>Find this file, select it, and click Open</td>
+    </tr>
+  	<tr>
+        <td>Убедитесь, что перед именем файла стоит галочка и нажмите OK</td>
+      	<td>Make sure that there is a check mark in front of the file name and click OK</td>
+    </tr>
+</table>
