@@ -9,7 +9,7 @@
         <th>Purpose of the file</th>
     </tr>
     <tr>
-        <td>Module_for_forming statements_of_work_volumes.xlam</td>
+        <td>Module_for_forming_statements_of_work_volumes.xlam</td>
       	<td>Подготовка к печати ведомостей объёмов работ (инструкцию по установке читай ниже)</td>
         <td>Preparation for printing of work volume statements (read the installation instructions below)</td>
     </tr>
@@ -66,8 +66,8 @@
 
 <table>
   	<tr>
-        <td>Скачайте файл "Module_for_forming statements_of_work_volumes.xlam"</td>
-      	<td>Download the file "Module_for_forming statements_of_work_volumes.xlam"</td>
+        <td>Скачайте файл "Module_for_forming_statements_of_work_volumes.xlam"</td>
+      	<td>Download the file "Module_for_forming_statements_of_work_volumes.xlam"</td>
     </tr>
   	<tr>
         <td>Поместите файл в папку Addons Excello. Возможный путь к этой папке - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns</td>
