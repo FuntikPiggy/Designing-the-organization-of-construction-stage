@@ -58,6 +58,11 @@
       	<td>Расчёт шпунтового ограждения</td>
         <td>Calculation of sheet pile fencing</td>
     </tr>
+  	<tr>
+        <td>Work_diary.xlsm</td>
+      	<td>Дневник учёта рабочего времени</td>
+        <td>Working time accounting diary</td>
+    </tr>
 </table>
 
 #
