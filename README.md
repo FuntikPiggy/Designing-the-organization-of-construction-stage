@@ -55,5 +55,5 @@
 
 
 10. **Убедитесь, что перед именем файла стоит галочка и нажмите OK**<br>*Make sure that there is a check mark in front of the file name and click OK*
-11. 
+
 <p align="right"><a href="#Start-point">Вернуться к началу</a></p>
