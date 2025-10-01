@@ -30,7 +30,7 @@
 1. **Скачайте файл "Module_for_forming_statements_of_work_volumes.xlam"**<br>*Download the file "Module_for_forming_statements_of_work_volumes.xlam"*
 
 
-2. **Поместите файл в папку Addons Excello. Возможный путь к этой папке - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns**<br>*Place the file in the Addons Excello folder. Possible path to this folder - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns*
+2. **Поместите файл в папку AddIns Excell. Возможный путь к этой папке - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns**<br>*Place the file in the AddIns Excell folder. Possible path to this folder - C -> Users -> UserName -> AppData -> Roaming -> Microsoft -> AddIns*
 
 
 3. **Запустите MS Excel**<br>*Launch MS Excel*
