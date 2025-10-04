@@ -1,5 +1,6 @@
 <a name="Start-point"></a>
-# Небольшая подборка excel-файлов для помощи инженеру отдела проектирования организации строительства в сфере мостостроения
+# Небольшая подборка excel-файлов для помощи инженеру отдела проектирования организации строительства в сфере мостостроения<img align="right" width="128" height="92" alt="diploma_128" src="https://github.com/user-attachments/assets/730ae534-d5c7-43bf-ad1a-211c785956ab" />
+
 ### A small selection of excel files to help the engineer of the design of the construction organization stage in the field of bridge construction
 
 
