@@ -6,7 +6,7 @@
 
 |Имя файла / filename|Предназначение файла|Purpose of the file|
 |-|-|-|
-|Module_for_forming_statements_of_work_volumes.xlam|Подготовка к печати ведомостей объёмов работ (инструкцию по установке читай ниже)|Preparation for printing of work volume statements (read the installation instructions below)|
+|Module_for_forming_statements_of_work_volumes.xlam|Подготовка к печати ведомостей объёмов работ ([инструкцию по установке читай ниже](#Installation))|Preparation for printing of work volume statements ([read the installation instructions below](#Installation))|
 |Bearing_capacity_of_the_pile.xlsm|Определение несущей способности висячей сваи|Determination of the bearing capacity of a hanging pile|
 |Wind_load.xlsm|Определение интенсивности ветровой нагрузки|Determination of wind load intensity|
 |Calculation_of_the_cantilever_beam.xlsm|Расчёт консольной балки|Calculation of the cantilever beam|
@@ -20,7 +20,7 @@
 
 <p align="right"><a href="#Start-point">Вернуться к началу</a></p>
 
-
+<a name="Installation"></a>
 #
 #### Инструкция по установке надстройки MS Excel для подготовки к печати ведомостей объёмов работ.
 ###### Instructions for installing the MS Excel add-in to prepare for printing volume statements.
